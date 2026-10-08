@@ -21,7 +21,7 @@ $ whoami
 Luiz-Guilherme · Gestor de TI | Head de Tecnologia
 ```
 
-Olá! Sou gestor de TI e atuo com tecnologia na área da saúde. Gosto de ver a tecnologia resolvendo problemas reais do dia a dia das equipes.
+Gestor de TI e atuo com tecnologia na área da saúde. Gosto de ver a tecnologia resolvendo problemas reais do dia a dia das equipes.
 
 Minha base vem da gestão de projetos, mas nunca larguei o desenvolvimento: sigo estudando e colocando a mão no código, o que me ajuda a falar a língua de quem constrói.
 
